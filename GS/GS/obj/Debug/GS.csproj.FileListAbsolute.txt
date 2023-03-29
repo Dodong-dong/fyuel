@@ -1,0 +1,14 @@
+C:\Users\PC User\source\repos\GS\GS\bin\Debug\GS.exe.config
+C:\Users\PC User\source\repos\GS\GS\bin\Debug\GS.exe
+C:\Users\PC User\source\repos\GS\GS\bin\Debug\GS.pdb
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.csproj.AssemblyReference.cache
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.Properties.Resources.resources
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.csproj.GenerateResource.cache
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.csproj.CoreCompileInputs.cache
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.exe
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.pdb
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.Loading.resources
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.Enterpin.resources
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.Selectform.resources
+C:\Users\PC User\source\repos\GS\GS\obj\Debug\GS.Receipt.resources
